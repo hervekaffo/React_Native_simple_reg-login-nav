@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "jetifier": "^1.6.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.6.3",
     "react-native": "0.58.6",
     "react-native-gesture-handler": "^1.1.0",
